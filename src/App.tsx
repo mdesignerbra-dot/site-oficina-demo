@@ -138,7 +138,7 @@ function Navbar() {
           <a href="#inicio" className="flex items-center gap-2">
             <i className="fas fa-cogs text-[#f97316] text-2xl"></i>
             <span className="text-xl font-bold text-white">
-              Mecânica<span className="text-[#f97316]">Pro</span>
+              Mecânica do <span className="text-[#f97316]">Jõa</span>
             </span>
           </a>
 
@@ -154,7 +154,7 @@ function Navbar() {
               </a>
             ))}
             <a
-              href="https://wa.me/5511999999999"
+              href="https://wa.me/5547992420250"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-cta bg-[#f97316] text-white px-5 py-2.5 rounded-lg font-semibold text-sm hover:bg-[#ea580c]"
@@ -186,7 +186,7 @@ function Navbar() {
               </a>
             ))}
             <a
-              href="https://wa.me/5511999999999"
+              href="https://wa.me/5547992420250"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-cta mt-4 block text-center bg-[#f97316] text-white px-5 py-2.5 rounded-lg font-semibold text-sm"
@@ -249,7 +249,7 @@ function HeroSection() {
         {/* Botões CTA */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-[fadeInUp_1s_ease_0.6s_both]">
           <a
-            href="https://wa.me/5511999999999?text=Olá! Gostaria de agendar um serviço."
+            href="https://wa.me/5547992420250?text=Olá! Gostaria de agendar um serviço."
             target="_blank"
             rel="noopener noreferrer"
             className="btn-cta bg-[#f97316] text-white px-8 py-4 rounded-xl font-bold text-lg flex items-center gap-3 hover:bg-[#ea580c]"
@@ -587,7 +587,7 @@ function Footer() {
             Atendimento rápido e sem complicação!
           </p>
           <a
-            href="https://wa.me/5511999999999?text=Olá! Gostaria de agendar um serviço."
+            href="https://wa.me/5547992420250?text=Olá! Gostaria de agendar um serviço."
             target="_blank"
             rel="noopener noreferrer"
             className="btn-cta inline-flex items-center gap-3 bg-[#f97316] text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-[#ea580c]"
@@ -604,7 +604,7 @@ function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <i className="fas fa-cogs text-[#f97316] text-xl"></i>
               <span className="text-xl font-bold text-white">
-                Mecânica<span className="text-[#f97316]">Pro</span>
+                Mecânica do <span className="text-[#f97316]">Jõa</span>
               </span>
             </div>
             <p className="text-gray-400 leading-relaxed">
@@ -691,7 +691,7 @@ function Footer() {
         {/* Copyright */}
         <div className="border-t border-[#222] pt-8 text-center">
           <p className="text-gray-500 text-sm">
-            © 2024 MecânicaPro. Todos os direitos reservados. | CNPJ: 00.000.000/0001-00
+            © 2024 Mecânica do Jõa. Todos os direitos reservados. | CNPJ: 00.000.000/0001-00
           </p>
         </div>
       </div>
@@ -714,7 +714,7 @@ function WhatsAppButton() {
 
   return (
     <a
-      href="https://wa.me/5511999999999?text=Olá! Gostaria de informações sobre os serviços."
+      href="https://wa.me/5547992420250?text=Olá! Gostaria de informações sobre os serviços."
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-btn fixed bottom-6 right-6 z-50 w-16 h-16 bg-[#25d366] rounded-full flex items-center justify-center shadow-lg hover:shadow-xl"
